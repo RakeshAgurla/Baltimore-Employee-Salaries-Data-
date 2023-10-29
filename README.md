@@ -1,27 +1,22 @@
-## **Baltimore City Employee Salaries Overview**
+# Baltimore Employee Salaries Analysis
 
-This dataset shows how much Baltimore City employees earned from 2011 till now.
+This repository offers an in-depth analysis, visualization, and exploration of Baltimore's city employee salaries. Using data spanning from fiscal year 2011 to the latest available year, insights into Baltimore's public sector salary trends and patterns are presented. The dataset contains fields such as first name, last name, job classification, agency identifier and name, hiring date, annual salary, gross pay, and the fiscal year of employment.
 
-### **What's in the dataset?**
-- **Names**: 
-  - Everyone's first, middle, and last name.
-  
-- **Job Info**: 
-  - What job they do and how it's categorized. 
+## Key Features
 
-- **Where They Work**: 
-  - Which city department or agency they belong to.
+1. **Dataset Exploration**: Dive into a comprehensive overview of salaries from 2011 onward.
+2. **Data Cleaning**: Address missing values and refine the dataset for enhanced analysis.
+3. **Salary Insights**: Gain insights into annual salary distributions, evolving trends, and outliers.
+4. **Hiring Analysis**: Understand how hiring dynamics have changed over the decade.
+5. **Job Role Study**: Discover the most prevalent job roles and their nuances.
+6. **Visualizations**: Interact with data using vivid charts and graphs.
 
-- **Pay Details**: 
-  - When they started, how much they earn yearly, and their total pay for the year.
+## Dataset Sources
+- [GeoJSON](https://data.baltimorecity.gov/datasets/baltimore::baltimore-city-employee-salaries.geojson)
+- [CSV](https://data.baltimorecity.gov/datasets/baltimore::baltimore-city-employee-salaries.csv)
 
-### **Updates on Oct 29, 2021**:
-- Added data for 2021.
-- Made some names and info clearer.
-- Took out some data that wasn't needed.
+## Project Files
+In this repository:
 
-### **Can I Access it?**
-Yes, it's public. You can download it in different formats like ArcGIS, GeoJSON, and CSV.
-
-### **Last Update**:
-The data was last updated on June 30, 2022.
+- A **PowerPoint presentation** encapsulating the primary findings and visual narratives.
+- The **Jupyter Notebook (.ipynb file)** detailing the analytical process, code, and commentary. 
